@@ -2,7 +2,7 @@
 html{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
-  background-color: #ffffff;
+  background-color: #6b6b6b;
 }
 
 /* Banner image*/
@@ -22,7 +22,7 @@ nav ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: #6b6b6b;
   top: 0;
   width: 100%;
   text-align: center;
@@ -44,11 +44,11 @@ nav li a{
 }
 
 nav li:hover{
-  background-color: orangered;
+  background-color: #a03604;
 }
 
 nav #active{
-  background-color: darkgreen;
+  background-color: #830700;;
 }
 
 /* Styling for the main section*/
@@ -89,7 +89,7 @@ p {
 
 /*Items for all the screenshots and pictures of your stuff*/
 .item{
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(2,2,2,2.2);
   width: 20%;
   min-width: 8rem;
   margin: 0.5rem;
